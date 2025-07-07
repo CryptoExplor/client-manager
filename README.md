@@ -8,7 +8,7 @@ A lightweight, browser-based client information management app to store and mana
 
 ---
 
-## 🚀 Features
+## 🚀 Features 
 
 - 🔐 Add, edit, and delete client records
 - 👨‍👩‍👧‍👦 Add multiple family members per client
